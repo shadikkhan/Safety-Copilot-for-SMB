@@ -39,7 +39,7 @@ Safety Copilot is an intelligent safety monitoring solution designed for small a
 ```bash
 # Clone the repository
 git clone <repository-url>
-cd construction
+
 
 # Create virtual environment (recommended)
 python -m venv .venv
