@@ -1,0 +1,65 @@
+# Training and Testing Datasets
+construction-ppe/
+Safe-and-Unsafe-Behaviours-Dataset/
+images/
+vid_test/
+
+# YOLO Training Runs
+runs/
+
+# Model Weights (large binary files)
+# models/
+# *.pt
+# *.pth
+# *.weights
+# *.onnx
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+ENV/
+env/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+
+# Logs
+*.log
+
+# YAML configs (uncomment if you want to exclude)
+# *.yaml
+
+# Images and Videos (additional patterns)
+# *.jpg
+# *.jpeg
+# *.png
+# *.gif
+# *.bmp
+# *.mp4
+# *.avi
+# *.mov
+# *.mkv
