@@ -1,8 +1,8 @@
 # Training and Testing Datasets
 construction-ppe/
 Safe-and-Unsafe-Behaviours-Dataset/
-images/
-vid_test/
+# images/
+# vid_test/
 
 # YOLO Training Runs
 runs/
